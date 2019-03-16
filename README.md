@@ -2,4 +2,4 @@
 
 This app leverages dockersample images for the votingapp.
 
-* Requires load balancere
+* Requires load balancer
